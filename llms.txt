@@ -1,0 +1,22 @@
+# K Solutions
+
+> K Solutions to polska firma konsultingowa łącząca doradztwo biznesowe, doradztwo IT i tworzenie dedykowanego oprogramowania.
+
+## Główne usługi
+
+- IT Consulting: strategia IT, wybór systemów informatycznych oraz wsparcie organizacji w decyzjach technologicznych.
+- Wybór systemów ERP, MRP i Business Intelligence: analiza procesów, zapytania ofertowe, wybór dostawcy, negocjacje i nadzór nad wdrożeniem.
+- IT Due Diligence: analiza systemów, infrastruktury, organizacji IT, niezbędnych inwestycji i ryzyk technologicznych.
+- Wsparcie wdrożeń: koordynacja wymagań, testów, odbioru, jakości, harmonogramu i budżetu.
+- Custom Development: dedykowane aplikacje, integracje systemów i automatyzacja procesów.
+
+## Kontakt
+
+- E-mail: k.nawrocki@ksolutions.pl
+- Telefon: +48 501 573 111
+- Adres: ul. Focha 32, apartament 3, 30-119 Kraków, Polska
+- Strona: https://kaysolutions.pl/
+
+## Preferowana nazwa
+
+K Solutions

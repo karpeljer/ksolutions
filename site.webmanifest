@@ -1,0 +1,17 @@
+{
+  "name": "K Solutions",
+  "short_name": "K Solutions",
+  "description": "Doradztwo IT, systemy ERP i BI oraz dedykowane rozwiązania informatyczne.",
+  "lang": "pl-PL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008f87",
+  "icons": [
+    {
+      "src": "assets/brand/k-solutions-mark.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
